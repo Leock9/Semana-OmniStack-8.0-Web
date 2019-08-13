@@ -1,0 +1,5 @@
+Lembrar de iniciar a api do backend
+leock@ubunto:~/Área de Trabalho/Omni/backEnd$ yarn dev
+
+E iniciar a api do frontend
+leock@ubunto:~/Área de Trabalho/Omni/frontend$ yarn start
